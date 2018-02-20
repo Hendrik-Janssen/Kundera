@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/jpa-engine/core-parent.iml" filepath="$PROJECT_DIR$/src/jpa-engine/core-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/data-as-object/data-as-object.iml" filepath="$PROJECT_DIR$/src/data-as-object/data-as-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jpa-engine/fallback-impl/fallback-impl.iml" filepath="$PROJECT_DIR$/src/jpa-engine/fallback-impl/fallback-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera.iml" filepath="$PROJECT_DIR$/src/kundera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-cassandra/cassandra-core/kundera-cassandra.iml" filepath="$PROJECT_DIR$/src/kundera-cassandra/cassandra-core/kundera-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-cassandra/cassandra-ds-driver/kundera-cassandra-ds-driver.iml" filepath="$PROJECT_DIR$/src/kundera-cassandra/cassandra-ds-driver/kundera-cassandra-ds-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-cassandra/kundera-cassandra-parent.iml" filepath="$PROJECT_DIR$/src/kundera-cassandra/kundera-cassandra-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-cassandra/cassandra-pelops/kundera-cassandra-pelops.iml" filepath="$PROJECT_DIR$/src/kundera-cassandra/cassandra-pelops/kundera-cassandra-pelops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jpa-engine/core/kundera-core.iml" filepath="$PROJECT_DIR$/src/jpa-engine/core/kundera-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-couchbase/kundera-couchbase.iml" filepath="$PROJECT_DIR$/src/kundera-couchbase/kundera-couchbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-couchdb/kundera-couchdb.iml" filepath="$PROJECT_DIR$/src/kundera-couchdb/kundera-couchdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-elastic-search/kundera-elastic-search.iml" filepath="$PROJECT_DIR$/src/kundera-elastic-search/kundera-elastic-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-ethereum/kundera-ethereum.iml" filepath="$PROJECT_DIR$/src/kundera-ethereum/kundera-ethereum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-hbase/kundera-hbase/kundera-hbase.iml" filepath="$PROJECT_DIR$/src/kundera-hbase/kundera-hbase/kundera-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-hbase/kundera-hbase-parent.iml" filepath="$PROJECT_DIR$/src/kundera-hbase/kundera-hbase-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-hbase/kundera-hbase-v2/kundera-hbase-v2.iml" filepath="$PROJECT_DIR$/src/kundera-hbase/kundera-hbase-v2/kundera-hbase-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-kudu/kundera-kudu.iml" filepath="$PROJECT_DIR$/src/kundera-kudu/kundera-kudu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-mongo/kundera-mongo.iml" filepath="$PROJECT_DIR$/src/kundera-mongo/kundera-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-neo4j/kundera-neo4j.iml" filepath="$PROJECT_DIR$/src/kundera-neo4j/kundera-neo4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-oracle-nosql/kundera-oracle-nosql.iml" filepath="$PROJECT_DIR$/src/kundera-oracle-nosql/kundera-oracle-nosql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kundera-parent.iml" filepath="$PROJECT_DIR$/kundera-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-rdbms/kundera-rdbms.iml" filepath="$PROJECT_DIR$/src/kundera-rdbms/kundera-rdbms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-redis/kundera-redis.iml" filepath="$PROJECT_DIR$/src/kundera-redis/kundera-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-rest/kundera-rest.iml" filepath="$PROJECT_DIR$/src/kundera-rest/kundera-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-rethinkdb/kundera-rethinkdb.iml" filepath="$PROJECT_DIR$/src/kundera-rethinkdb/kundera-rethinkdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-spark/spark-core/kundera-spark.iml" filepath="$PROJECT_DIR$/src/kundera-spark/spark-core/kundera-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-spark/spark-cassandra/kundera-spark-cassandra.iml" filepath="$PROJECT_DIR$/src/kundera-spark/spark-cassandra/kundera-spark-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-spark/spark-hive/kundera-spark-hive.iml" filepath="$PROJECT_DIR$/src/kundera-spark/spark-hive/kundera-spark-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-spark/spark-mongodb/kundera-spark-mongodb.iml" filepath="$PROJECT_DIR$/src/kundera-spark/spark-mongodb/kundera-spark-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-spark/kundera-spark-parent.iml" filepath="$PROJECT_DIR$/src/kundera-spark/kundera-spark-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-spark/spark-teradata/kundera-spark-teradata.iml" filepath="$PROJECT_DIR$/src/kundera-spark/spark-teradata/kundera-spark-teradata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/kundera-tests/kundera-tests.iml" filepath="$PROJECT_DIR$/src/kundera-tests/kundera-tests.iml" />
+    </modules>
+  </component>
+</project>

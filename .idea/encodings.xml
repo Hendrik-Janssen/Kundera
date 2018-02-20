@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/data-as-object" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jpa-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jpa-engine/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jpa-engine/fallback-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-cassandra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-cassandra/cassandra-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-cassandra/cassandra-ds-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-cassandra/cassandra-pelops" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-couchbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-couchdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-elastic-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-ethereum" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-hbase/kundera-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-hbase/kundera-hbase-v2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-kudu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-neo4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-oracle-nosql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-rdbms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-rethinkdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-spark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-spark/spark-cassandra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-spark/spark-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-spark/spark-hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-spark/spark-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-spark/spark-teradata" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/kundera-tests" charset="UTF-8" />
+  </component>
+</project>

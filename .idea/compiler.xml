@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-as-object" />
+        <module name="fallback-impl" />
+        <module name="kundera-cassandra" />
+        <module name="kundera-cassandra-ds-driver" />
+        <module name="kundera-cassandra-pelops" />
+        <module name="kundera-core" />
+        <module name="kundera-couchbase" />
+        <module name="kundera-couchdb" />
+        <module name="kundera-elastic-search" />
+        <module name="kundera-ethereum" />
+        <module name="kundera-hbase" />
+        <module name="kundera-hbase-v2" />
+        <module name="kundera-kudu" />
+        <module name="kundera-mongo" />
+        <module name="kundera-neo4j" />
+        <module name="kundera-oracle-nosql" />
+        <module name="kundera-rdbms" />
+        <module name="kundera-redis" />
+        <module name="kundera-rest" />
+        <module name="kundera-rethinkdb" />
+        <module name="kundera-spark" />
+        <module name="kundera-spark-cassandra" />
+        <module name="kundera-spark-hive" />
+        <module name="kundera-spark-mongodb" />
+        <module name="kundera-spark-teradata" />
+        <module name="kundera-tests" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-parent" target="1.7" />
+      <module name="data-as-object" target="1.7" />
+      <module name="fallback-impl" target="1.7" />
+      <module name="kundera" target="1.7" />
+      <module name="kundera-cassandra" target="1.7" />
+      <module name="kundera-cassandra-ds-driver" target="1.7" />
+      <module name="kundera-cassandra-parent" target="1.7" />
+      <module name="kundera-cassandra-pelops" target="1.7" />
+      <module name="kundera-core" target="1.7" />
+      <module name="kundera-couchbase" target="1.7" />
+      <module name="kundera-couchdb" target="1.7" />
+      <module name="kundera-elastic-search" target="1.7" />
+      <module name="kundera-ethereum" target="1.8" />
+      <module name="kundera-hbase" target="1.7" />
+      <module name="kundera-hbase-parent" target="1.7" />
+      <module name="kundera-hbase-v2" target="1.7" />
+      <module name="kundera-kudu" target="1.7" />
+      <module name="kundera-mongo" target="1.7" />
+      <module name="kundera-neo4j" target="1.7" />
+      <module name="kundera-oracle-nosql" target="1.7" />
+      <module name="kundera-parent" target="1.5" />
+      <module name="kundera-rdbms" target="1.7" />
+      <module name="kundera-redis" target="1.7" />
+      <module name="kundera-rest" target="1.7" />
+      <module name="kundera-rethinkdb" target="1.7" />
+      <module name="kundera-spark" target="1.7" />
+      <module name="kundera-spark-cassandra" target="1.7" />
+      <module name="kundera-spark-hive" target="1.7" />
+      <module name="kundera-spark-mongodb" target="1.7" />
+      <module name="kundera-spark-parent" target="1.7" />
+      <module name="kundera-spark-teradata" target="1.7" />
+      <module name="kundera-tests" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
