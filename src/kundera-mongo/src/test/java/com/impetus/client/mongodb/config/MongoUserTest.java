@@ -15,6 +15,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.impetus.client.mongodb.transformation.MongoTransformationEngine;
+
 /**
  * @author Kuldeep Mishra
  * 
@@ -71,5 +73,16 @@ public class MongoUserTest
         Assert.assertNotNull(user);
         Assert.assertEquals(24, user.getAge());
         Assert.assertEquals("gzb", user.getAddress());
+    }
+
+    @Test
+    public void transformationTest() {
+        MongoUser u = new MongoUser();
+        u.setName("kuldeep");
+        u.setAge(24);
+        u.setAddress("gzb");
+
+        MongoTransformationEngine mt = new MongoTransformationEngine();
+        mt.transform( u );
     }
 }
