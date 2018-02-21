@@ -4,6 +4,7 @@
 *.ipr
 target/
 test-output/
+.idea/workspace.xml
  
 ## Eclipse stuff ##
 .project
